@@ -1,0 +1,8 @@
+{
+  "name": "NexLink SA - School Communication Dashboard",
+  "description": "A comprehensive administrative dashboard for South African educational institutions, featuring student management, automated announcements via Gemini AI, attendance tracking, and localized pricing strategies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
